@@ -1,8 +1,8 @@
 # Portfolio
 <html>
-   
+  <head> 
     <link rel="stylesheet" type="text/css" href="FernandezBermejoJuliaP2.css">
-
+  <head>
 <body>
     <h1 id="port">PORTFOLIO TRABAJOS</h1>
 <br>
