@@ -1,7 +1,7 @@
 # Portfolio
 <html>
 <head>
-    <title>TRABAJO JULIA</title>
+    TRABAJO JULIA
     <link rel="stylesheet" type="text/css" href="FernandezBermejoJuliaP2.css">
 </head>
 <body>
